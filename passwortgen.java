@@ -1,6 +1,6 @@
 public class passwortgen{
     private final String passwortbuchstaben;
-    private final  String passwortnumbers;
+    private final String passwortnumbers;
     private final String passwortsymbole;
 
     public passwortgen(){
